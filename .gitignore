@@ -1,0 +1,16 @@
+# MAC
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.ipynb_checkpoints
+
+#
+LAB1_FCNN/.ipynb_checkpoints
+LAB2_CNN/.ipynb_checkpoints
+LAB1_LSTM/.ipynb_checkpoints
+LAB1_FCNN/Data/*
+LAB2_CNN/MNIST_data/*
+LAB2_CNN/log_files/
+LAB3_RNN/log_files/
+LAB3_RNN/data/*
