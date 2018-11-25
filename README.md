@@ -13,9 +13,10 @@ This repository contains my project notebooks for the Deep Learning course at EU
 	 * sigmoid / softmax output
 
 
+<img align="right" src="https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/images/LeNet.png" width="250">
 ### [LAB2_CNN](https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/LAB2_CNN.ipynb)
 
-<img align="right" src="https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/images/LeNet.png" width="250">
+
 
 * Using **Tensorboard** to visualize the graph and training progress.
 * Re-build the FCNN model using **Tensorflow**.
@@ -24,7 +25,7 @@ This repository contains my project notebooks for the Deep Learning course at EU
  * Different Optimizer :Gradient Descent vs AdamOptimizer
  * Dropout
 
-
+<br><br><br>
 
 
 
