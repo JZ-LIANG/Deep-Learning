@@ -23,8 +23,8 @@ This repository contains my project notebooks for the Deep Learning course at EU
 * Re-build the FCNN model using **Tensorflow**.
 * Implement a LeNet-5 CNN model in **Tensorflow**
 * Perform some optimizations to get more than **99%** of accuracy on MNIST.
- * Different Optimizer :Gradient Descent vs AdamOptimizer
- * Dropout
+	* Different Optimizer :Gradient Descent vs AdamOptimizer
+	* Dropout
 
 <br><br><br>
 
