@@ -14,6 +14,7 @@ This repository contains my project notebooks for the Deep Learning course at EU
 
 
 <img align="right" src="https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/images/LeNet.png" width="250">
+
 ### [LAB2_CNN](https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/LAB2_CNN.ipynb)
 
 
