@@ -21,21 +21,16 @@ This repository contains my project notebooks for the Deep Learning course at EU
 * Re-build the FCNN model using **Tensorflow**.
 * Implement a LeNet-5 CNN model in **Tensorflow**
 * Perform some optimizations to get more than **99%** of accuracy on MNIST.
-<<<<<<< HEAD
  * Different Optimizer :Gradient Descent vs AdamOptimizer
  * Dropout
-=======
-  * Different Optimizer :Gradient Descent vs AdamOptimizer
-  * Dropout
->>>>>>> ce7d05c2674294253bd01ae20c8ef1cc0b0e9ee9
-
-
 
 
 
 
 
 ### [LAB3_RNN](https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB3_RNN/LAB3_RNN.ipynb)
-<img align="right" src="https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB2_CNN/images/GRU.png" width="250">
+
+<img align="right" src="https://github.com/JZ-LIANG/Deep-Learning/blob/master/LAB3_RNN/images/GRU.png" width="250">
+
 * Build a Vanilla-RNN and a GRU by hand writing the formulas in **Tensorflow**.
 * Classify user comments  from IMDb, Amazon, and Yelp to two classification(Negative / Positive).
