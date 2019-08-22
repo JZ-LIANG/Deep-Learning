@@ -1,5 +1,5 @@
 # Deep Learning
-This repository contains my project notebooks for the Deep Learning course at EURECOM.
+This repository contains my project notebooks for the Deep Learning course.
 
 ***
 
